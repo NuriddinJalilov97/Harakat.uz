@@ -13,3 +13,8 @@ $verifyLink = Yii::$app->urlManager->createAbsoluteUrl(['site/verify-email', 'to
 
     <p><?= Html::a(Html::encode($verifyLink), $verifyLink) ?></p>
 </div>
+
+
+
+
+
